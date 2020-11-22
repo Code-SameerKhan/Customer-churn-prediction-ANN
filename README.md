@@ -49,3 +49,7 @@ After preprocessing and scaling the data, it is split in Training and Test set f
 We arrive at a result of accuracy reaching 81%
 
 ![](visuals/classification_report.png)
+
+Best way to understand visually how the model performed we got to look at confusion matrix and with seaborn library we can make it even more appealing
+
+![](visuals/heatmap_cf.png)
