@@ -14,3 +14,26 @@ Using Pandas to import data and then with library such as Matpotlib can be eompl
 * Longer the stay duration, less likely they quit the services.
 
 ![](visuals/vs_monthly_charges.png)
+
+* Mid to high end range customers tend to have a higher leaving rate
+
+![](visuals/vs_total_charges.png)
+
+* Higher the total charge, lower the leaving rate of customers
+
+# Preprocessing the data
+
+This includes-
+
+* Checking and dealing with redundant values and columns
+* Scaling the data. Scaled data helping the machine learning algorithm to work better.
+
+# Model Building
+
+In this project we have applied the concept of Artificial Neural Network - a branch of Deep Learning
+
+* Arficial Neural Network
+
+
+An artificial neural network (ANN) is the piece of a computing system designed to simulate the way the human brain analyzes and processes information. 
+It is the foundation of artificial intelligence (AI) and solves problems that would prove impossible or difficult by human or statistical standards.
