@@ -25,7 +25,7 @@ Using Pandas to import data and then with library such as Matpotlib can be eompl
 
 This includes-
 
-* Checking and dealing with redundant values and columns
+* Checking and dealing with redundant data points and features
 * Scaling the data. Scaled data helping the machine learning algorithm to work better.
 
 # Model Building
