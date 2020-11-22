@@ -37,3 +37,15 @@ In this project we have applied the concept of Artificial Neural Network - a bra
 
 An artificial neural network (ANN) is the piece of a computing system designed to simulate the way the human brain analyzes and processes information. 
 It is the foundation of artificial intelligence (AI) and solves problems that would prove impossible or difficult by human or statistical standards.
+
+In this project we employ KERAS
+
+Keras is an open-source library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library. 
+
+After preprocessing and scaling the data, it is split in Training and Test set for the model to make prediction
+
+# Result
+
+We arrive at a result of accuracy reaching 81%
+
+![](visuals/classification_report.png)
