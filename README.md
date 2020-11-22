@@ -12,3 +12,5 @@ Using Pandas to import data and then with library such as Matpotlib can be eompl
 
 * We can observe that newer customers tend to leave more.
 * Longer the stay duration, less likely they quit the services.
+
+![](visuals/vs_monthly_charges.png)
